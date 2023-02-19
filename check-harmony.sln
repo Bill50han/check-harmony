@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "check-harmony", "check-harmony\check-harmony.vcxproj", "{B9885C8A-C7A4-4351-B4E7-FAF9B9653FAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9885C8A-C7A4-4351-B4E7-FAF9B9653FAF}.Debug|x64.ActiveCfg = Debug|x64
+		{B9885C8A-C7A4-4351-B4E7-FAF9B9653FAF}.Debug|x64.Build.0 = Debug|x64
+		{B9885C8A-C7A4-4351-B4E7-FAF9B9653FAF}.Debug|x86.ActiveCfg = Debug|Win32
+		{B9885C8A-C7A4-4351-B4E7-FAF9B9653FAF}.Debug|x86.Build.0 = Debug|Win32
+		{B9885C8A-C7A4-4351-B4E7-FAF9B9653FAF}.Release|x64.ActiveCfg = Release|x64
+		{B9885C8A-C7A4-4351-B4E7-FAF9B9653FAF}.Release|x64.Build.0 = Release|x64
+		{B9885C8A-C7A4-4351-B4E7-FAF9B9653FAF}.Release|x86.ActiveCfg = Release|Win32
+		{B9885C8A-C7A4-4351-B4E7-FAF9B9653FAF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92B8F2E2-258E-4DAD-AFFA-92E9F326578E}
+	EndGlobalSection
+EndGlobal
